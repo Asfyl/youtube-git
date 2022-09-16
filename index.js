@@ -13,4 +13,4 @@ function suma(){
     1+3 == resultado
 }
 
-console.log("Otoño (21m), invierno (21j), primavera (21s) y verano (21d")
+console.log("Otoño, invierno, primavera y verano")
